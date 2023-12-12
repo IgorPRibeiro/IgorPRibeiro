@@ -1,7 +1,6 @@
 ### Hi there, I'm Igor Pinheiro 👋
 
-- 🔭 I’m currently working with React Native
-- 🌱 I’m currently learning Java Script
+- 🔭 I’m currently working with React Native at Globalsys
 - 📫 How to reach me: iguprcarrer@gmail.com
 
  <div>
@@ -21,9 +20,8 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/igorp_ribeiro7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:iguprcarrer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igorpinheiroribeiro1202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-pinheiro-ribeiro-a197b21a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
  
   
